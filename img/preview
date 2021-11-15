@@ -1,0 +1,317 @@
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+
+
+
+
+
+<meta charset="utf-8" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<link rel="icon" href="https://cms.unimelb.edu.au/__data/assets/image/0006/1456044/favicon.gif" type="image/gif" sizes="16x16">
+<title>Login to the LMS</title>
+<!--
+MCE Gen3
+This website is managed centrally by the External Relations Digital Team. digital-team@unimelb.edu.au
+Last updated by: Dean Collett on 10 Sep 2020 4:02pm
+Last published by: Calani Hamilton on 17 Sep 2019 11:09am
+Asset ID: 3074348
+Asset Type: Standard Page
+Asset Status: Live
+Page Template: Inside page with blue header
+Paint Layout: Page layout 1385754
+Web maintainer: le-webmaster@lists.unimelb.edu.au
+-->
+
+
+<meta name="title" content="Login to the LMS" />
+<meta name="description" content="Login to the LMS" />
+
+<meta name="robots" content="index, follow" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://lms.unimelb.edu.au/canvas">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079" />
+
+
+<meta name="DC.Creator" content="Dean Collett"/>
+<meta name="DC.Date" content="10 Sep 2020 4:02pm"/>
+<meta name="MCE.Template" content="Inside page with blue header"/>
+<meta name="MCE.Paintlayout" content="Page layout 1385754"/>
+
+
+<meta property="og:type" content="website" />
+<!--<meta property="fb:app_id" content="933889623386823"/>-->
+<meta property="og:url" content="https://lms.unimelb.edu.au/canvas" />
+<meta property="og:title" content="Login to the LMS" />
+<meta property="og:description" content="Login to the LMS" />
+<meta property="og:site_name" content="Learning Management System" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@unimelb" />
+<meta name="twitter:title" content="Login to the LMS" />
+<meta name="twitter:description" content="Login to the LMS" />
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+ 
+            <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v8.6.0/uom.css"><!-- prod mode -->
+        <script src="//dds-gen3.web.unimelb.edu.au/v8.6.0/uom.js"></script> 
+        
+            
+        
+        <link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=0.0.180">
+        <meta name="design" content="currentDesign" /> 
+    <!-- custom head extras start -->
+<style>
+/* 20191213 dcollett sticky headers for tables on desktop */
+.uomcontent [role="main"] table thead th {
+  background-clip: padding-box;
+  background-color: #fff;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 2.5em;
+  z-index: 1;
+}
+</style>
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 15 November 2021 23:18:39
+-->
+
+
+</head>
+<body class="">
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://lms.unimelb.edu.au" itemprop="item"><span itemprop="name">Learning Management System</span></a>
+                        <meta content="1" itemprop="position" />
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://lms.unimelb.edu.au/canvas" itemprop="item"><span itemprop="name">Login to the LMS</span></a>
+                           <meta content="2" itemprop="position" />
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+    <header>
+                    <h1>Login to the LMS</h1>
+            </header>
+    
+
+        
+         
+                        
+
+    
+
+    
+    
+    <!-- MCE: Pathfinder content template version 3.0.4 -->
+    <div class="content-template ct-pathfinder  fullwidth  short fixed-background" style="background-image:url(https://lms.unimelb.edu.au/__data/assets/image/0007/3092704/varieties/banner.jpg);" >
+
+ 
+
+  <ul class="pathfinder-2 white">
+    <li>
+		 
+		   <a href="https://canvas.lms.unimelb.edu.au/login/saml" >
+		 
+      
+        <h3><span>Staff and students</span></h3>
+                   
+            <p>Use your University of Melbourne student or staff account to access the LMS</p>
+          
+          <span class="button-small brand">LMS login</span>
+              </a>
+    </li>
+    <li>
+      	 
+		   <a href="https://canvas.lms.unimelb.edu.au/login/canvas" >
+		       
+        <h3><span>Other users</span></h3>
+                   
+            <p>College Tutors, External Users and other account holders can access the LMS using the alternative log in below</p>
+          
+          <span class="button-small brand">Alternative LMS login</span>
+              </a>
+    </li>
+          </ul>
+
+</div>
+
+<div class="content-block content-block--short nopadbottom" id="more_3160318">
+<h2>Access issues</h2><p>If you are experiencing any issues accessing the LMS, please submit a <a href="https://unimelb.service-now.com/st?id=sc_cat_item&sys_id=55657b5edba87b8035dc403c3a961927&category_id=f53df8724fd62a00592d52411310c72a" data-linktype="link">staff support</a> or <a href="https://unimelb.service-now.com/student" data-linktype="link">student support</a> enquiry.</p>
+</div>
+<p style="visibility:hidden"><iframe src="https://canvas.lms.unimelb.edu.au/login/saml" height="1px"></iframe></p>
+
+
+
+
+
+            
+            <!-- custom site footer start  -->
+<footer class="cta" style="padding-bottom: 1.875rem;">
+  <div class="center">
+    <a class="social" style="font-size: 1em;" href="https://lms.unimelb.edu.au/canvas">
+      <div data-icon="canvas">Log in to the LMS</div>
+     </a>
+    <a class="social" style="font-size: 1em;" href="https://lms.unimelb.edu.au/staff">
+      <div data-icon="help">Staff LMS support</div>
+     </a>
+    <a class="social" style="font-size: 1em;" href="https://lms.unimelb.edu.au/students">
+      <div data-icon="student">Student LMS support</div>
+     </a>
+    <a class="social" style="font-size: 1em;" href="https://le.unimelb.edu.au">
+      <div data-icon="le">Learning Environments</div>
+     </a>
+  </div>
+</footer>
+
+
+<!-- HELP -->
+<svg class="hidden" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="icon-help" viewBox="0 0 24 24">
+    <path d="M11,18H13V16H11V18M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20,12C20,16.41 16.41,20 12,20M12,6A4,4 0 0,0 8,10H10A2,2 0 0,1 12,8A2,2 0 0,1 14,10C14,12 11,11.75 11,15H13C13,12.75 16,12.5 16,10A4,4 0 0,0 12,6Z" />
+  </symbol>
+</svg>
+
+<!-- ABOUT -->
+<svg class="hidden" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="icon-about" viewBox="0 0 24 24">
+    <path d="M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20,12C20,16.41 16.41,20 12,20M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M11,17H13V11H11V17Z" />
+  </symbol>
+</svg>
+
+<!-- CANVAS -->
+<svg class="hidden" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="icon-canvas" viewBox="0 0 1920 1920">
+    <path d="M277.736 960c0 138.868-108.68 259.623-241.51 271.698C12.076 1141.132 0 1050.566 0 960c0-90.566 12.075-187.17 36.226-271.698 138.868 12.075 241.51 132.83 241.51 271.698zm163.019-84.528c46.671 0 84.528 37.856 84.528 84.528 0 46.672-37.857 84.528-84.528 84.528-46.672 0-84.529-37.856-84.529-84.528 0-46.672 37.857-84.528 84.529-84.528zm90.566 386.415c30.188-30.189 90.566-30.189 120.754 0 36.227 30.188 36.227 84.528 0 120.755-30.188 36.226-84.528 30.188-120.754 0-36.227-30.19-36.227-84.529 0-120.755zm-54.34 175.094c96.604 102.642 108.68 259.623 18.113 362.264-156.98-90.566-289.811-223.396-386.415-386.415 114.717-84.528 271.698-72.453 368.302 24.151zm54.34-911.698c30.188-30.189 84.528-30.189 120.754 0 30.19 30.189 36.227 84.528 0 120.755-30.188 36.226-84.528 30.188-120.754 0-36.227-30.189-36.227-84.529 0-120.755zm724.528 742.642c36.226-30.19 84.528-30.19 114.717 0 36.226 30.188 36.226 84.528 6.038 120.754 0 6.038-6.038 6.038-6.038 6.038-36.226 30.189-90.566 30.189-120.755-6.038-30.188-36.226-30.188-90.566 6.038-120.754zm132.83-615.85c-36.226 30.19-84.528 30.19-114.717 0-36.226-30.188-36.226-84.528-6.037-120.754 30.188-30.189 84.528-30.189 114.717 0 36.226 30.188 36.226 84.528 6.037 120.754zm48.302-175.094c-96.604-96.604-108.68-253.585-18.113-362.264 156.981 90.566 289.811 223.396 386.415 386.415-114.717 84.528-271.698 72.453-368.302-24.15zm-960 0c-96.604 96.604-253.585 108.68-362.264 24.151 90.566-163.019 223.396-295.849 386.415-386.415 84.528 108.68 78.49 265.66-24.15 362.264zm960 960c102.642-96.604 259.623-108.68 362.264-18.113-90.566 156.981-223.396 289.811-386.415 386.415-84.528-114.717-72.453-271.698 24.151-368.302zM960 356.226c42.264 0 84.528 36.227 84.528 78.491 0 48.302-36.226 90.566-84.528 90.566-48.302 0-84.528-36.226-84.528-84.528 0-48.302 36.226-84.529 84.528-84.529zm0-78.49c-138.868 0-259.623-102.642-277.736-241.51C772.83 12.076 863.396 0 960 0c96.604 0 187.17 12.075 277.736 36.226-18.113 132.83-138.868 241.51-277.736 241.51zm0 1116.981c42.264 0 78.49 36.226 84.528 84.528 0 48.302-36.226 90.566-84.528 90.566h-6.038c-48.302 0-84.528-42.264-84.528-90.566s42.264-84.528 90.566-84.528zm0 247.547c138.868 0 253.585 102.642 271.698 241.51C1147.17 1907.924 1050.566 1920 960 1920c-90.566 0-181.132-12.075-271.698-36.226 12.075-138.868 132.83-241.51 271.698-241.51zm519.245-772.83c48.302 0 84.529 42.264 84.529 84.528 0 48.302-36.227 84.529-84.529 84.529s-84.528-36.227-84.528-84.529 36.226-84.528 84.528-84.528zM1642.265 960c0-138.868 102.64-259.623 241.509-271.698C1907.924 772.83 1920 869.434 1920 960c0 90.566-12.075 181.132-36.226 271.698-132.83-12.075-241.51-132.83-241.51-271.698z"/>
+</symbol>
+</svg>
+
+<!-- LE -->
+<svg class="hidden" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="icon-le" viewBox="0 0 60 60">
+    <path style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" d="M30.6,54.7c-2.8,0-5.7-1.6-8.1-4.1c-1.8,2.3-4.1,4.1-6.5,4.1c-5.7,0-10.2-7.9-10.8-8.8c-0.4-0.7-0.1-1.6,0.6-2
+	s1.6-0.1,2,0.6c1.1,2.1,4.8,7.4,8.2,7.4c1.4,0,3-1.3,4.5-3.4c-4.4-5.7-7.5-14-7.5-21.1c0-10.6,2.8-22.1,9.2-22.1h0.1
+	c0.4,0,8.7,1.4,8.7,19.4c0,5.5-1.7,12.9-4.5,19.2c-0.6,1.3-1.4,3-2.4,4.5c2.1,2.3,4.4,3.7,6.5,3.7c2.8,0,5.3-0.9,7.4-2.1
+	c-6.8-10.2,1.3-20.4,1.4-20.6c0.7-1,3.1-3,6-1.8c3.3,1.1,4,5.7,3.7,8.4c-0.6,5.4-3,10.9-7.1,14.6c2.6,2.4,4.7,1.1,5,1
+	c0.1,0,2.6-1.7,5.4-6.5c0.4-0.7,1.3-0.9,2-0.6c0.7,0.4,0.9,1.3,0.6,2c-3.3,5.4-6.2,7.4-6.2,7.5c-1.6,1.1-5.3,2.1-8.8-1.6
+	C37.1,53.7,34,54.7,30.6,54.7z M43.7,29.8c-1.1,0-2,1-2,1.1c-0.3,0.4-6.8,8.7-1.4,17.2c3.5-3.3,5.7-8.1,6.1-12.8
+	c0.1-2.1-0.6-5-1.8-5.4C44.1,29.8,43.8,29.8,43.7,29.8z M22.1,8c-3.4,0.3-6.2,8.9-6.2,19.3c0,6.4,2.7,13.6,6.4,18.6
+	c3.3-5.7,6.1-14.5,6.1-21.3C28.2,10.3,22.8,8.3,22.1,8z"/>
+</symbol>
+</svg>
+<!-- custom site footer end  -->            
+        </div>
+        
+
+ 
+    
+ 
+         
+    <!-- has menu -->
+    <div id="sitemap" role="navigation" data-absolute-root="https://lms.unimelb.edu.au" class="new-site-menu">
+    <!-- site nav with meta menu --><!--googleoff: all-->
+    <h2>Learning Management System</h2><ul><!-- L1 default -->
+<li><a href="https://lms.unimelb.edu.au/staff">LMS support for staff</a><ul><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/staff/request-support">Request support from LE</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/staff/lms-reps">Division Representatives</a><ul><!-- L3 default -->
+<li><a href="https://lms.unimelb.edu.au/staff/lms-reps/slack-access-for-faculty-reference-group">Slack access for Faculty Reference Group</a></li></ul></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/staff/guides">LMS and learning technology guides and resources</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/staff/lms-faqs">LMS FAQs</a></li></ul></li><!-- L1 default -->
+<li><a href="https://lms.unimelb.edu.au/students">LMS support for students</a><ul><!-- L2 link -->
+
+<li><a href="https://unimelb.service-now.com/student?id=sc_cat_item&sys_id=55657b5edba87b8035dc403c3a961927">Learning Environments Support Request (Student)</a>
+</li><!-- L2 redirect -->
+
+<li><a href="https://unimelb.service-now.com/student?id=sc_cat_item&sys_id=55657b5edba87b8035dc403c3a961927">LMS support - ServiceNow (Student)</a>
+<!-- L2 redirect -->
+
+<li><a href="https://unimelb.service-now.com/student?id=sc_cat_item&sys_id=a87302ca4fc8d300f414461f0310c77c">Lecture Capture support - ServiceNow (Student)</a>
+<!-- L2 redirect -->
+
+<li><a href="https://unimelb.service-now.com/student?id=sc_cat_item&sys_id=ce99cedb4f2aa6807861a90f0310c78a">SES support - ServiceNow (Student)</a>
+<!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/students/blackboard-lms-decommission">Blackboard LMS decommission - information for students</a></li></ul></li><!-- L1 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies">Other learning technologies</a><ul><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/ally">Ally - Accessibility tool</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/banner-tool">Banner tool</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/cadmus">Cadmus</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/exam-support">Exam support</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/feedbackfruits">FeedbackFruits</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/gradescope">Gradescope</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/h5p">H5P</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/ithenticate">iThenticate</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/kaltura">Kaltura VMS</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/lecture-capture">Lecture Capture</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/mediaspace">MediaSpace</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/microsoft-teams">Microsoft Teams</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/padlet">Padlet</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/perusall">Perusall</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/poll-everywhere">Poll Everywhere</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/qualtrics">Qualtrics</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/readings-online">Readings Online</a><ul><!-- L3 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/readings-online/faqs">Readings Online FAQs</a></li></ul></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/turnitin">Turnitin</a></li><!-- L2 default -->
+<li><a href="https://lms.unimelb.edu.au/learning-technologies/zoom">Zoom</a></li></ul></li><!-- L1 default -->
+<li><a href="https://lms.unimelb.edu.au/updates">LMS updates</a></li><!-- L1 default -->
+<li><a href="https://lms.unimelb.edu.au/decommission">Decommission of Blackboard LMS</a></li></ul><ul class="meta">
+    
+    <li><a href="//students.unimelb.edu.au">Current Students</a></li>
+    <li><a href="//library.unimelb.edu.au">Library</a></li>
+    <li><a href="//staff.unimelb.edu.au">Staff</a></li>
+</ul>
+<!--googleon: all-->
+</div>
+     
+
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+<script src="https://cms.unimelb.edu.au/__data/assets/js_file_folder/0006/3182370/designSwitchMin.js"></script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    <!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
